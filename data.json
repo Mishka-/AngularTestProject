@@ -1,0 +1,64 @@
+[{
+	"question" : "When boiling water, what does adding salt do?",
+	"answers"   : [
+		{"id" : 0, "text" : "Makes the water boil at a higher temperature"},
+		{"id" : 1, "text" : "Makes the water boil at a lower temperature"},
+		{"id" : 2, "text" : "Makes the water boil faster"}		
+	],
+	"correct" : 0
+},	
+	{
+		"question" : "How can you fix an over-sweetened dish?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Add some water"},
+			{"id"  : 1, "text" : "Add flour"},
+			{"id"  : 2, "text" : "Add salt and lemon juice"}			
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "Which type of wood is not good for smoking foods on an outdoor grill?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Fruitwoods"},
+			{"id"  : 1, "text" : "Hardwoods"},
+			{"id"  : 2, "text" : "Softwoods"}			
+		],
+		"correct"  : 0
+		
+	},
+	{
+		"question" : "Pesto sauce consists of basil, Parmesan, olive oil, salt and:",
+		"answers"  : [
+			{"id"  : 0, "text" : "Pepper"},
+			{"id"  : 1, "text" : "Garlic"},
+			{"id"  : 2, "text" : "Pine Nuts"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "Which is the most sanitary type of cutting board?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Plastic"},
+			{"id"  : 1, "text" : "Wood"}			
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "Pesto sauce consists of basil, Parmesan, olive oil, salt and:",
+		"answers"  : [
+			{"id"  : 0, "text" : "Pepper"},
+			{"id"  : 1, "text" : "Garlic"},
+			{"id"  : 2, "text" : "Pine Nuts"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "How to make sure your boiled eggs are peeled easily?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Add salt to the water while boiling them"},
+			{"id"  : 1, "text" : "Boil them no longer than 5 minutes"},
+			{"id"  : 2, "text" : "Put them in cold after boiling"}
+		],
+		"correct"  : 2
+	}
+]
